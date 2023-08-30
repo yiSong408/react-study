@@ -1,10 +1,10 @@
 import React from "react";
-import LifeCycle from "./study/LifeCycle";
+import UseContext from "./study/UseContext";
 
 function App() {
     return (
         <div className="App">
-            <LifeCycle />
+            <UseContext />
         </div>
     );
 }
